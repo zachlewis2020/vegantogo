@@ -1,0 +1,54 @@
+ {
+    "categories": [
+        "soup",
+        "salad",
+        "sandwich",
+        "entree",
+        "side",
+        "dessert"
+    ],
+    "foods": [
+        {
+            "id": 1,
+            "title": "Sweet Potato and Kale soup",
+            "category": "soup",
+            "url": "https://simple-veganista.com/winter-potato-white-bean-kale-soup/",
+            "price": 5
+        },
+        {
+            "id": 2,
+            "title": "Black Bean, Corn & Avocado Salad",
+            "category": "salad",
+            "url": "https://simple-veganista.com/black-bean-roasted-corn-tomato-salad/",
+            "price": 5
+        },
+        {
+            "id": 3,
+            "title": "Cranberry Walnut Vegan Chicken Salad",
+            "category": "sandwich",
+            "url": "https://simple-veganista.com/cranberry-walnut-chickpea-salad-sandwic/",
+            "price": 5
+        },
+        {
+            "id": 4,
+            "title": "Sweet Potato & Quinoa Chili",
+            "category": "entree",
+            "url": "https://simple-veganista.com/sweet-potato-quinoa-chili/",
+            "price": 5
+        },
+        {
+            "id": 5,
+            "title": "Instant Pot Refried Beans & Cauliflower Crackers",
+            "category": "side",
+            "url": "https://simple-veganista.com/vegan-mushroom-soup/",
+            "price": 5
+        },
+        {
+            "id": 6,
+            "title": "Vegan Pumpkin Oat Muffinsp",
+            "category": "dessert",
+            "url": "https://simple-veganista.com/pumpkin-oat-muffins/",
+            "price": 5
+        }
+    ]
+}
